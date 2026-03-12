@@ -8,3 +8,5 @@ Los programas fueron diseñados utilizando lenguajes estándar de automatizació
 
 1. Tia Portal v17
 2. FluidSim
+
+![S7-1500](https://github.com/user-attachments/assets/14200a9f-5e82-4eac-83c1-126d7ca27a05)
